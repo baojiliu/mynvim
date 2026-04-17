@@ -4,4 +4,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.cpp" },
 }
